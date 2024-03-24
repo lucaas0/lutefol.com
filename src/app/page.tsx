@@ -10,7 +10,7 @@ export default function Home() {
           <h1 className="text-3xl font-bold md:text-5xl">
             Revolutionizing sports <br /> technology for the future
           </h1>
-          <h2 className="text-lg md:text-2xl w-3/5 md:w-3/4 text-center">
+          <h2 className="text-lg md:text-2xl w-10/12 md:w-3/4 text-center">
             Experience the next level of sports innovation and performance. Join us today!
           </h2>
         </div>
