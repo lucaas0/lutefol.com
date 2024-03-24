@@ -6,12 +6,12 @@ export default function Home() {
     <div className="bg-image">
       <div className="content flex flex-col items-center justify-evenly h-full">
         <Image src="/logo-lutefol.svg" width={246} height={32} alt="" />
-        <div className="flex flex-col">
-          <h1 className="text-3xl md:text-5xl">
+        <div className="flex flex-col items-center">
+          <h1 className="text-3xl font-bold md:text-5xl">
             Revolutionizing sports <br /> technology for the future
           </h1>
-          <h2 className="text-lg md:text-2xl">
-            Experience the next level of sports innovation <br /> and performance. Join us today!
+          <h2 className="text-lg md:text-2xl w-3/5 md:w-3/4 text-center">
+            Experience the next level of sports innovation and performance. Join us today!
           </h2>
         </div>
         <div className="flex flex-col md:flex-row gap-2 text-sm md:text-base">
