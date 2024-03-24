@@ -7,7 +7,7 @@ export default function Home() {
       <div className="content flex flex-col items-center justify-evenly h-full">
         <Image src="/logo-lutefol.svg" width={246} height={32} alt="" />
         <div className="flex flex-col">
-          <h1 className="text-2xl md:text-5xl">
+          <h1 className="text-3xl md:text-5xl">
             Revolutionizing sports <br /> technology for the future
           </h1>
           <h2 className="text-lg md:text-2xl">
