@@ -15,7 +15,7 @@ export default function Home() {
           </h2>
         </div>
         <div className="flex flex-col md:flex-row gap-2 text-sm md:text-base">
-          Are you looking for Piratas FC Oficcial Website?
+          Are you looking for Piratas FC Official Website?
           <Link href="https://piratasfc.vercel.app" className="underline" target="_blank">
             Visit Piratas FC Official Site
           </Link>
